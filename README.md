@@ -1,36 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Musfiqur+Rahim;CEO+of+Black+Shadow+Team;Turning+ideas+into+impact" alt="Typing animation introducing Musfiqur Rahim" />
+  <img src="https://raw.githubusercontent.com/musfiqurrahmanmahinm-commits/musfiqurrahmanmahinm-commits/main/assets/cyberpunk-banner.svg" alt="Musfiqur Rahim — CEO and Founder of Black Shadow Team" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musfiqurrahmanmahinm-commits/musfiqurrahmanmahinm-commits/main/Black%20Shadow%20Team%20logo.png" alt="Black Shadow Team logo" width="180" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=780&lines=CEO+%26+Founder+of+Black+Shadow+Team;Building+bold+digital+experiences;Turning+ideas+into+impact" alt="Animated text: CEO and Founder of Black Shadow Team" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musfiqurrahmanmahinm-commits/musfiqurrahmanmahinm-commits/main/Black%20Shadow%20Team%20logo.png" alt="Black Shadow Team logo" width="160" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Musfiqur Rahim</h1>
-<h2 align="center">CEO of <a href="https://github.com/black-shadow-team">Black Shadow Team</a></h2>
+<h2 align="center">CEO &amp; Founder of <a href="https://github.com/black-shadow-team">Black Shadow Team</a></h2>
 
 <p align="center">Building bold digital experiences, creative systems, and impactful online communities.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musfiqurrahmanmahinm-commits&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=musfiqurrahmanmahinm-commits&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEO-Black%20Shadow%20Team-101820?style=for-the-badge&logo=github&logoColor=00F5D4" alt="CEO Black Shadow Team" />
-  <img src="https://img.shields.io/badge/FOCUS-Digital%20Growth-101820?style=for-the-badge&logoColor=00F5D4" alt="Digital Growth" />
-  <img src="https://img.shields.io/badge/BRAND-Strategy-101820?style=for-the-badge&logoColor=00F5D4" alt="Brand Strategy" />
+  <img src="https://img.shields.io/badge/CEO%20%26%20Founder-Black%20Shadow%20Team-080b14?style=for-the-badge&logo=github&logoColor=00f5ff" alt="CEO and Founder of Black Shadow Team" />
+  <img src="https://img.shields.io/badge/FOCUS-Digital%20Growth-080b14?style=for-the-badge&labelColor=080b14" alt="Digital Growth" />
+  <img src="https://img.shields.io/badge/STYLE-Cyberpunk-080b14?style=for-the-badge&labelColor=080b14" alt="Cyberpunk style" />
 </p>
 
 ---
 
-### 🌐 Official Links
+### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/black-shadow-team"><img src="https://img.shields.io/badge/GitHub%20Organization-111827?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub Organization" /></a>
-  <a href="https://black-shadow-team.vercel.app/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=00F5D4" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/musfiqur-rahim-bst/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn" /></a>
-  <a href="https://x.com/BlackShadoTeam"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=00F5D4" alt="X" /></a>
-  <a href="https://www.instagram.com/black_shadow_team_x/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=00F5D4" alt="Instagram" /></a>
+  <a href="https://github.com/black-shadow-team"><img src="https://img.shields.io/badge/GitHub%20Organization-080b14?style=for-the-badge&logo=github&logoColor=00f5ff" alt="GitHub Organization" /></a>
+  <a href="https://black-shadow-team.vercel.app/"><img src="https://img.shields.io/badge/Website-080b14?style=for-the-badge&logo=vercel&logoColor=00f5ff" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/musfiqur-rahim-bst/"><img src="https://img.shields.io/badge/LinkedIn-080b14?style=for-the-badge&logo=linkedin&logoColor=00f5ff" alt="LinkedIn" /></a>
+  <a href="https://x.com/BlackShadoTeam"><img src="https://img.shields.io/badge/X-080b14?style=for-the-badge&logo=x&logoColor=00f5ff" alt="X" /></a>
+  <a href="https://www.instagram.com/black_shadow_team_x/"><img src="https://img.shields.io/badge/Instagram-080b14?style=for-the-badge&logo=instagram&logoColor=00f5ff" alt="Instagram" /></a>
 </p>
 
 <details>
@@ -57,29 +61,23 @@
 
 </details>
 
-### 🚀 Focus Areas
+### ⚡ What I do
 
-- Brand Building
-- Creative Strategy
-- Digital Growth
-- Web & Product Innovation
-- Community Development
+- Brand building and creative strategy
+- Digital growth and community development
+- Web and product innovation
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=musfiqurrahmanmahinm-commits&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurrahmanmahinm-commits&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=musfiqurrahmanmahinm-commits&show_icons=true&hide_border=true&bg_color=080b14&title_color=00f5ff&icon_color=bd5bff&text_color=dbeafe" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurrahmanmahinm-commits&layout=compact&hide_border=true&bg_color=080b14&title_color=00f5ff&text_color=dbeafe" alt="Top languages" />
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musfiqurrahmanmahinm-commits&theme=onestar&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=musfiqurrahmanmahinm-commits&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
 </p>
 
-### 🔗 Connect
-
-Let’s build something powerful together.
-
-> “Turning ideas into impact.”
+<p align="center"><strong>“Turning ideas into impact.”</strong></p>
