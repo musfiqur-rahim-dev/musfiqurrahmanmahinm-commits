@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Musfiqur+Rahim;CEO+of+Black+Shadow+Team;Turning+ideas+into+impact" alt="Typing animation introducing Musfiqur Rahim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Musfiqur+Rahim;CEO+of+Black+Shadow+Team;Turning+ideas+into+impact" alt="Typing animation introducing Musfiqur Rahim" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musfiqurrahmanmahinm-commits/musfiqurrahmanmahinm-commits/main/Black%20Shadow%20Team%20logo.png" alt="Black Shadow Team logo" width="180" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Musfiqur Rahim</h1>
@@ -8,25 +12,37 @@
 <p align="center">Building bold digital experiences, creative systems, and impactful online communities.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEO-Black%20Shadow%20Team-0A0A0A?style=for-the-badge&logo=github" alt="CEO Black Shadow Team" />
-  <img src="https://img.shields.io/badge/Focus-Digital%20Growth-0A0A0A?style=for-the-badge" alt="Digital Growth" />
-  <img src="https://img.shields.io/badge/Brand-Strategy-0A0A0A?style=for-the-badge" alt="Brand Strategy" />
+  <img src="https://komarev.com/ghpvc/?username=musfiqurrahmanmahinm-commits&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CEO-Black%20Shadow%20Team-101820?style=for-the-badge&logo=github&logoColor=00F5D4" alt="CEO Black Shadow Team" />
+  <img src="https://img.shields.io/badge/FOCUS-Digital%20Growth-101820?style=for-the-badge&logoColor=00F5D4" alt="Digital Growth" />
+  <img src="https://img.shields.io/badge/BRAND-Strategy-101820?style=for-the-badge&logoColor=00F5D4" alt="Brand Strategy" />
+</p>
+
+---
 
 ### 🌐 Official Links
 
-- [GitHub Organization](https://github.com/black-shadow-team)
-- [Website](https://black-shadow-team.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/musfiqur-rahim-bst/)
+<p align="center">
+  <a href="https://github.com/black-shadow-team"><img src="https://img.shields.io/badge/GitHub%20Organization-111827?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub Organization" /></a>
+  <a href="https://black-shadow-team.vercel.app/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=00F5D4" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/musfiqur-rahim-bst/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn" /></a>
+  <a href="https://x.com/BlackShadoTeam"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=00F5D4" alt="X" /></a>
+  <a href="https://www.instagram.com/black_shadow_team_x/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=00F5D4" alt="Instagram" /></a>
+</p>
+
+<details>
+<summary><strong>All social profiles</strong></summary>
+
 - [Substack](https://substack.com/@blackshadowteam)
 - [GitHub](https://github.com/blackshadowteamnet-netizen)
 - [Dev.to](https://dev.to/black_shadow_team)
 - [Medium](https://medium.com/@blackshadowteam.net)
-- [X / Twitter](https://x.com/BlackShadoTeam)
 - [Bluesky](https://bsky.app/profile/black-shadow-team.bsky.social)
 - [Facebook](https://www.facebook.com/profile.php?id=61591268330812)
 - [Facebook Page](https://www.facebook.com/profile.php?id=100090580510673)
-- [Instagram](https://www.instagram.com/black_shadow_team_x/)
 - [Threads](https://www.threads.net/@blacky_mahin_x)
 - [Reddit](https://www.reddit.com/user/blackshadowteamoffic/)
 - [Mix](https://mix.com/black_shadow_team)
@@ -39,6 +55,8 @@
 - [Kaggle](https://www.kaggle.com/musfiqurrahim)
 - [DZone](https://dzone.com/users/5577855/blackshadowteam.html)
 
+</details>
+
 ### 🚀 Focus Areas
 
 - Brand Building
@@ -50,7 +68,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiqurrahmanmahinm-commits&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=musfiqurrahmanmahinm-commits&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurrahmanmahinm-commits&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=musfiqurrahmanmahinm-commits&theme=onestar&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
 </p>
 
 ### 🔗 Connect
