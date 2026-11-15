@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Musfiqur Rahim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Musfiqur+Rahim;CEO+of+Black+Shadow+Team;Turning+ideas+into+impact" alt="Typing animation introducing Musfiqur Rahim" />
+</p>
 
-## CEO of Black Shadow Team
+<h1 align="center">👋 Hi, I'm Musfiqur Rahim</h1>
+<h2 align="center">CEO of <a href="https://github.com/black-shadow-team">Black Shadow Team</a></h2>
 
-I’m the CEO of Black Shadow Team — building bold digital experiences, creative systems, and impactful online communities.
+<p align="center">Building bold digital experiences, creative systems, and impactful online communities.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEO-Black%20Shadow%20Team-0A0A0A?style=for-the-badge&logo=github" alt="CEO Black Shadow Team" />
